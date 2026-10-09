@@ -27,7 +27,7 @@ Construo sistemas web que resolvem problemas reais de pequenos negócios.
 
 ## Meu GitHub em números
 
-<div align="center">
+<div>
   <a href="https://github.com/melanima25">
     <img height="180" alt="Estatísticas do GitHub de melanima25" src="https://github-readme-stats.vercel.app/api?username=melanima25&show_icons=true&theme=tokyonight&include_all_commits=true&v=2" />
   </a>
