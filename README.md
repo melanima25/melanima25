@@ -27,10 +27,11 @@ Construo sistemas web que resolvem problemas reais de pequenos negócios.
 
 ## Meu GitHub em números
 
- <div>
-   <a href="https://github.com/Melanima">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Melanima25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"&v=2/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melanima25&layout=compact&langs_count=6&theme=neon"&v=2/>
+<div align="center">
+  <a href="https://github.com/melanima25">
+    <img height="180" alt="Estatísticas do GitHub de melanima25" src="https://github-readme-stats.vercel.app/api?username=melanima25&show_icons=true&theme=tokyonight&include_all_commits=true&v=2" />
+  </a>
+  <img height="180" alt="Linguagens mais usadas por melanima25" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melanima25&layout=compact&langs_count=6&theme=tokyonight&v=2" />
 </div>
     
 
