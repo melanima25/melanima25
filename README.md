@@ -29,8 +29,8 @@ Construo sistemas web que resolvem problemas reais de pequenos negócios.
 
  <div>
    <a href="https://github.com/Melanima">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Melanima25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melanima25&layout=compact&langs_count=6&theme=neon"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Melanima25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"&v=2/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melanima25&layout=compact&langs_count=6&theme=neon"&v=2/>
 </div>
     
 
